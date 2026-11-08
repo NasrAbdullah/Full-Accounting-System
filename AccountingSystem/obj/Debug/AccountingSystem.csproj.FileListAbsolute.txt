@@ -1,0 +1,7 @@
+D:\Accounting\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.exe
+D:\Accounting\AccountingSystem\AccountingSystem\bin\Debug\AccountingSystem.pdb
+D:\Accounting\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.csproj.AssemblyReference.cache
+D:\Accounting\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.csproj.SuggestedBindingRedirects.cache
+D:\Accounting\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.csproj.CoreCompileInputs.cache
+D:\Accounting\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.exe
+D:\Accounting\AccountingSystem\AccountingSystem\obj\Debug\AccountingSystem.pdb
